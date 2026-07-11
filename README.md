@@ -10,9 +10,10 @@ and deployment.
 1. Start with `roadmap/00-30-day-plan.md`.
 2. Practice topic questions from `question-bank/`.
 3. Drill the larger question-and-answer bank in `question-bank-expanded/`.
-4. Build the mini projects in `exercises/`.
-5. Use `datasets/` for Bulk API, Data Loader, SOQL, duplicate handling, and migration practice.
-6. Revise curated links in `resources/`.
+4. Practice cloud-specific live scenarios in `cloud-service-live-exercises/`.
+5. Build the mini projects in `exercises/`.
+6. Use `datasets/` for Bulk API, Data Loader, SOQL, duplicate handling, and migration practice.
+7. Revise curated links in `resources/`.
 
 ## Interview Focus Areas
 
@@ -30,6 +31,13 @@ and deployment.
 
 `question-bank-expanded/` contains thousands of generated interview questions and model
 answers across basic, intermediate, advanced, and extreme difficulty levels.
+
+## Live Cloud Exercises
+
+`cloud-service-live-exercises/` contains practical exercises for Salesforce cloud
+services, development roles, and production support responsibilities. Each exercise is
+written like a real project or support ticket so you can practice both implementation
+and interview explanation.
 
 ## Repo Size Note
 
