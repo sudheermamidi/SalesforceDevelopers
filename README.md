@@ -9,9 +9,10 @@ and deployment.
 
 1. Start with `roadmap/00-30-day-plan.md`.
 2. Practice topic questions from `question-bank/`.
-3. Build the mini projects in `exercises/`.
-4. Use `datasets/` for Bulk API, Data Loader, SOQL, duplicate handling, and migration practice.
-5. Revise curated links in `resources/`.
+3. Drill the larger question-and-answer bank in `question-bank-expanded/`.
+4. Build the mini projects in `exercises/`.
+5. Use `datasets/` for Bulk API, Data Loader, SOQL, duplicate handling, and migration practice.
+6. Revise curated links in `resources/`.
 
 ## Interview Focus Areas
 
@@ -25,9 +26,13 @@ and deployment.
 - Health Cloud: care plans, clinical data model, consent, provider/patient workflows.
 - Platform: security, sharing, flows, metadata, DevOps, packaging, CI/CD.
 
+## Expanded Question Bank
+
+`question-bank-expanded/` contains thousands of generated interview questions and model
+answers across basic, intermediate, advanced, and extreme difficulty levels.
+
 ## Repo Size Note
 
 The synthetic datasets are generated content intended for practice and are safe to
 redistribute. They are split into multiple CSV files so no single file exceeds typical
 GitHub limits.
-
