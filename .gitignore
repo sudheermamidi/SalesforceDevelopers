@@ -1,0 +1,10 @@
+# Local Salesforce/dev files
+.sfdx/
+.sf/
+node_modules/
+.env
+
+# Generated temp files
+*.log
+*.tmp
+
